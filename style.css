@@ -124,13 +124,13 @@ a {
 
 .hero-image img {
     width: 320px;
-    height: 320px;
+    height: 360px;
 
     object-fit: cover;
 
-    object-position: center 35%;
+    object-position: center 20%;
 
-    border-radius: 50%;
+    border-radius: 35%;
 
     border: 8px solid var(--white);
 
